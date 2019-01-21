@@ -4,7 +4,7 @@
     "make": "Porsche",
     "model": "907",
     "year": "1968",
-    "thumburl": "https://app.box.com/s/9qivmomrnj79k8n6loyzu53vub14oi1l",
+    "thumburl": "https://revsinstitute.box.com/shared/static/rpmy8xtip6vaokcwi92155uuucf7dprg.jpg",
     "descr": "Serial No. 907-024 Flat-eight air-cooled engine, mounted midship, twin overhead camshafts, fuel injected, 2196cc, 278hp at 8700 rpm",
     "country": "Germany",
     "gallery": "Porsche",
