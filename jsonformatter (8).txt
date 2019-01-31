@@ -33,7 +33,7 @@
     "country": "England",
     "gallery": "Shop",
     "gallery_seq": "",
-    "station": "",
+    "station": "0",
     "fact1": "",
     "fact2": "",
     "fact3": "",
