@@ -301,7 +301,7 @@
     "make": "Elva",
     "model": "Porsche",
     "year": "1963",
-    "thumburl": "https://revsinstitute.box.com/s/gp3hfktt6zwivluybplyc7jryo8qwzct",
+    "thumburl": "https://revsinstitute.box.com/shared/static/gp3hfktt6zwivluybplyc7jryo8qwzct.jpg",
     "descr": "",
     "country": "",
     "gallery": "",
