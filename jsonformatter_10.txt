@@ -436,7 +436,7 @@
     "make": "Porsche",
     "model": "914/6 GT",
     "year": "1970",
-    "thumburl": "https://revsinstitute.box.com/shared/static/qfgxkz7jknnu51fql223sx8zm92rafpp.jpg",
+    "thumburl": "https://revsinstitute.box.com/shared/static/7pamaaz8mei4bafkrv5cedm5hsa61ogj.jpg",
     "descr": "",
     "country": "",
     "gallery": "",
