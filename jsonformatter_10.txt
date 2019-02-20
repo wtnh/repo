@@ -20,7 +20,7 @@
     "fact8": "",
     "articlesurl": "https://revsinstitute.box.com/s/jx9wxorn1j7qmgmqyx0o57d77mp7gkem",
     "dashurl": "https://revsinstitute.box.com/s/mdv4f76dhfpc1y6cattnwqfj9c9599ea",
-    "imagesurl": "https://revsinstitute.box.com/s/hc505ypb3g8m82yqru94o1mzbura1ujf",
+    "imagesurl": "https://revsinstitute.box.com/shared/static/54pwy6f8jb3ea55wlo7xa1a12x3rwmav.txt",
     "engineurl": "",
     "tcurl": "",
     "aacurl": "",
