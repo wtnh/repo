@@ -409,7 +409,7 @@
     "make": "Porsche",
     "model": "917 PA",
     "year": "1969",
-    "thumburl": "https://revsinstitute.box.com/shared/static/yh17oa9ndt6msyfwhjck92t3xkl4zgwx.jpg",
+    "thumburl": "https://revsinstitute.box.com/shared/static/eqir4srciw6k86aatv4wkndb4h4db32c.jpg",
     "descr": "",
     "country": "",
     "gallery": "",
