@@ -490,7 +490,7 @@
     "make": "Porsche",
     "model": "910/6",
     "year": "1967",
-    "thumburl": "https://revsinstitute.box.com/shared/static/0u9t5a309y1err8px7kjufbw0lfc838o.jpg",
+    "thumburl": "https://revsinstitute.box.com/shared/static/zxz91t5ygqdfww948fkhw35mot94kfag.jpg",
     "descr": "",
     "country": "",
     "gallery": "",
