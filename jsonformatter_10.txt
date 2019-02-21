@@ -544,7 +544,7 @@
     "make": "Porsche",
     "model": "908/3",
     "year": "1971",
-    "thumburl": "https://revsinstitute.box.com/shared/static/lanvr8mei8gr0srpy7xv3w6affdt2a7k.jpg",
+    "thumburl": "https://revsinstitute.box.com/shared/static/jhwc23xqwbrzut0shgzh6582nlbvwckg.jpg",
     "descr": "",
     "country": "",
     "gallery": "",
