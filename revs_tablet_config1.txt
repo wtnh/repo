@@ -739,7 +739,7 @@
     "country": "Germany",
     "gallery": "2",
     "gallery_seq": "",
-    "station": "",
+    "station": "2",
     "fact1": "",
     "fact2": "",
     "fact3": "",
