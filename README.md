@@ -1,1 +1,1 @@
-This repository contains the master configuration file for thr Revs CarPad app.
+This repository contains the master configuration file for the Revs CarPad app.
