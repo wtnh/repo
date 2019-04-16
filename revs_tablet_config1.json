@@ -813,7 +813,7 @@
   {
     "id": "31",
     "make": "Vauxhall",
-    "model": "30/98 Type OE Velox Quicksilver",
+    "model": "30/98 Type OE Velox",
     "year": "1927",
     "thumburl": "https://revsinstitute.box.com/shared/static/8k31n9lzkd3dmzipyl7roimtw3ah0l3t.jpg",
     "descr": "Serial No. OE 305 Four-cylinder in-line pushrod engine, 4224 cc, 120+ hp at 3500 rpm.",
@@ -975,7 +975,7 @@
   {
     "id": "37",
     "make": "Delaunay-Belleville",
-    "model": "Roi des Belges Tourer",
+    "model": "Roi des Belges",
     "year": "1908",
     "thumburl": "https://revsinstitute.box.com/shared/static/4xi4sq3qpuj9kltlrb9xq2vcgvmt2jz4.jpg",
     "descr": "Serial No. 1406V: Six-cylinder in-line engine, L-head, 5900cc, 28 hp, HP to WT Ratio: 136.75",
@@ -1218,7 +1218,7 @@
   {
     "id": "46",
     "make": "Miller",
-    "model": "122/91 Board Track Racing Car",
+    "model": "122/91 Board Track Racer",
     "year": "1924",
     "thumburl": "https://revsinstitute.box.com/shared/static/ek8ploeiiqhyqrjcq68ar2apb74n03b1.jpg",
     "descr": "Serial No.?: Eight-cylinder in-line engine, double overhead camshafts, supercharged",
@@ -1328,7 +1328,7 @@
 {
   "id": "50",
   "make": "Hispano-Suiza",
-  "model": "H6C Skiff by Kellner",
+  "model": "H6C Skiff Kellner",
   "year": "1928",
   "thumburl": "https://revsinstitute.box.com/shared/static/chyuotscdwgif5jyeqyww9nu0wbvzwkr.jpg",
   "descr": "Serial No. 11739: Six-cylinder in-line overhead camshaft engine, 7982 cc, 194 bhp at 3000 rpm.",
@@ -1355,7 +1355,7 @@
 {
   "id": "51",
   "make": "Stutz",
-  "model": "Black Hawk Boattail Speedster",
+  "model": "Black Hawk Boattail",
   "year": "1928",
   "thumburl": "https://revsinstitute.box.com/shared/static/tyyw492fjmtaamyzudp4bruzjtaw1f1t.jpg",
   "descr": "Serial No. B8612-BA29C: Eight-cylinder in-line engine, single overhead camshaft, 298 cubic inches, 115 hp at 3600 rpm. HP to WT Ratio: 38.94",
@@ -1544,7 +1544,7 @@
 {
   "id": "58",
   "make": "Alfa Romeo",
-  "model": "Tipo 8c 2300 Corto Touring",
+  "model": "Tipo 8c 2300 Corto",
   "year": "1934",
   "thumburl": "https://revsinstitute.box.com/shared/static/5v1d4f5o0t156exksqzcgnbr51tm40fc.jpg",
   "descr": "Serial No. 2311241: Eight-cylinder in-line engine, double overhead camshafts, two valves per cylinder, Roots-type supercharger, 2336 cc, 142 hp at 5000 rpm.",
@@ -1625,7 +1625,7 @@
 {
   "id": "61",
   "make": "Delahaye",
-  "model": "135 Competition Special Roadster",
+  "model": "135 Competition Special",
   "year": "1937",
   "thumburl": "https://revsinstitute.box.com/shared/static/gj5s4jo5vtfh3ncmzbdtry4nwwkd5dma.jpg",
   "descr": "Serial No. 48563: Six-cylinder in-line pushrod engine",
@@ -1652,7 +1652,7 @@
 {
   "id": "62",
   "make": "Alfa Romeo",
-  "model": "Tipo 8C 2900B Berlinetti",
+  "model": "Tipo 8C 2900B",
   "year": "1938",
   "thumburl": "https://revsinstitute.box.com/shared/static/4u1iwlmyl3js19vg1xmjh3lasx30v1uh.jpg",
   "descr": "Serial No. 412036: Eight-cylinder in-line engine, double overhead camshafts, two valves per cylinder, supercharged, 2905 cc, 180 bhp at 5200 rpm.",
@@ -2898,7 +2898,7 @@
 {
   "id": "108",
   "make": "Bentley",
-  "model": "6 1/2 Litre Speed 6 Vanden Plas",
+  "model": "6 1/2 Litre Speed 6",
   "year": "1930",
   "thumburl": "https://revsinstitute.box.com/shared/static/3skycy7uu6t4rl5ny839zvvinzw3bdv9.jpg",
   "descr": "Serial No. HM2856: Six-cylinder in-line engine, single port block, single overhead camshaft, four valves per cylinder, 6597 cc (402.5 cubic inches), 180 hp at 3500 rpm.",
@@ -3006,7 +3006,7 @@
 {
   "id": "112",
   "make": "La Compagnie Parisienne",
-  "model": "Velocipede Bicycle",
+  "model": "Bicycle",
   "year": "1869",
   "thumburl": "https://revsinstitute.box.com/shared/static/vx62vuu4eutmxa5yqd2lor80vcsv22sb.jpg",
   "descr": "",
