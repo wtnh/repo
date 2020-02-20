@@ -3868,6 +3868,32 @@
     "aacurl": "",
     "spare": ""
   }
-
+{
+    "id": "144",
+    "make": "Waymo",
+    "model": "Firefly",
+    "year": "2015",
+    "thumburl": "https://revsinstitute.box.com/shared/static/rs3kpktt2qvt7gt3bn4kgiqmf5m4p7ce.jpg",
+    "descr": "Self driving prototype EV (Electric Vehicle), 25 mph, 2 passenger ",
+    "country": "USA",
+    "gallery": "Automobility",
+    "gallery_seq": "14",
+    "station": "4",
+    "fact1": "Built by Waymo self driving project of Google to explore the boundries of 'self driving vehicles'",
+    "fact2": "Explored self driving aspects as well as vehicle configuration and dynamics as well.",
+    "fact3": "Uses dome on roof containing LiDAR (Light Detection and Ranging) equipment to 'see' its environment.",
+    "fact4": "Made its first autonomous drive on public roads in October of 2015 in Austin Texas.",
+    "fact5": "Retired from service in 2017 and replaced by exising EVs once proof of concept was completed.",
+    "fact6": "Replaced by Chrysler Pacifica and Jaguar I-Pace vehicles as platform for further advanced development at faster speeds.",
+    "fact7": "Waymo launched its first fully self-driving ride share, Waymo One, in 2018 in Phoenix Arizona using existing EVs.",
+    "fact8": "",
+    "articlesurl": "https://revsinstitute.box.com/s/4fepz23x9pi03xz3n01h2whj6aqte5v0",
+    "dashurl": "https://revsinstitute.box.com/shared/static/tdx2c2mpb70izq9p8apwb48oj2sdvc0m.json",
+    "imagesurl": "https://revsinstitute.box.com/shared/static/n5yvfa9a5wufcus2hujmr4elk2c2puz3.json",
+    "engineurl": "",
+    "tcurl": "",
+    "aacurl": "",
+    "spare": ""
+  }
 
 ]
