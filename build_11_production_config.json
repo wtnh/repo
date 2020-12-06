@@ -76,7 +76,7 @@
     "dashurl": "https://revsinstitute.box.com/shared/static/0ypk2rw2kpu18fl14nh7wof6ybps7na7.json",
     "imagesurl": "https://revsinstitute.box.com/shared/static/e6c5godtnfzuz0ze2t2cqn5gmony5qqg.json",
     "engineurl": "",
-    "tcurl": "build_11_production_config.json file",
+    "tcurl": "https://revs.oncell.com/en/automobility-gallery-1896-panhard-et-levassor-wagonette-261835.html",
     "aacurl": "",
     "spare": "https://revsinstitute.org/the-collection/1896-panhard-levassor/"
   },
@@ -1888,7 +1888,7 @@
   "dashurl": "https://revsinstitute.box.com/shared/static/zmyij9anwfenh06i22pgpoe634skq5dy.json",
   "imagesurl": "https://revsinstitute.box.com/shared/static/2yfcfsb2axdj3fln3fhmiwq1fr573j7k.json",
   "engineurl": "https://revsinstitute.box.com/shared/static/2yfcfsb2axdj3fln3fhmiwq1fr573j7k.json",
-  "tcurl": "https://revs.oncell.com/en/vitesse-gallery-1950-cisitalia-202-sc-coupe-267197.html",
+  "tcurl": "https://revs.oncell.com/en/vitesse-gallery-1951-cunningham-type-c-1-prototype-267201.html",
   "aacurl": "",
   "spare": "https://revsinstitute.org/the-collection/1951-cunningham-c-1/"
 },
@@ -3136,7 +3136,7 @@
   "engineurl": "",
   "tcurl": "https://revs.oncell.com/en/porsche-gallery-1969-porsche-9082-flunder-263248.html",
   "aacurl": "",
-  "spare": ""
+  "spare": "https://revsinstitute.org/the-collection/1969-porsche-908-02-flunder/"
 },
 {
   "id": "117",
@@ -3890,7 +3890,7 @@
     "dashurl": "https://revsinstitute.box.com/shared/static/tdx2c2mpb70izq9p8apwb48oj2sdvc0m.json",
     "imagesurl": "https://revsinstitute.box.com/shared/static/n5yvfa9a5wufcus2hujmr4elk2c2puz3.json",
     "engineurl": "",
-    "tcurl": "",
+    "tcurl": "https://revs.oncell.com/en/automobility-gallery-2015-waymo-firefly-262087.html",
     "aacurl": "",
     "spare": ""
   },
@@ -3971,7 +3971,7 @@
     "dashurl": "https://revsinstitute.box.com/shared/static/mtjsbjdmlok5dak6yvye76g1mj1rzpxo.json",
     "imagesurl": "https://revsinstitute.box.com/shared/static/pswizwdshlzu9r9jbhgtmy9bfyuzf7nm.json",
     "engineurl": "",
-    "tcurl": "",
+    "tcurl": "https://revs.oncell.com/en/automobility-gallery-1934-lasalle-convertible-coupe-261927.html",
     "aacurl": "",
     "spare": ""
   }
