@@ -6,6 +6,8 @@ All configuration edits should now be done only on this file. The others are dep
 
 The current working version in Android Studio is 2.5 (as of Nov 28 2023)
 
+Do not use Version 3.0 - strictly experimental at this point!
+
 Caution - do not update Android Studio or Gradle for project version 2.5 - it may break certain features.
 
 For the 7" Lenovo tablets, edit activity_main.xml to adjust main screen spacing - see notes in file header.
