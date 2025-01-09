@@ -10,7 +10,7 @@ Do not use Version 3.0 - strictly experimental at this point!
 
 Caution - do not update Android Studio or Gradle for project version 2.5 - it may break certain features.
 
-For the 7" Lenovo tablets, edit activity_main.xml to adjust main screen spacing - see notes in file header.
+For the 7" and 8" Lenovo tablets, edit activity_main.xml to adjust main screen spacing - see notes in file header.
 
 See the CarPad website for more detailed info: https://sites.google.com/view/revscarpad/home
 
